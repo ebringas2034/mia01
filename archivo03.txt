@@ -1,3 +1,6 @@
 Este es un archivo03
 
 Chancando la version del GitHub
+Cambiado en GitHub
+
+van los dos cambios
